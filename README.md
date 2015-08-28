@@ -4,4 +4,6 @@ site met diverse rekenoefeningen van het niveau eerste en tweede studiejaar om m
 
 <p>PHP & MySQL voor een webapp die een adaptief leerpatroon aanstuurt, scores en evoluties bijhoudt.</p>
 
+hosted on Azure: http://oefeningenvoornoah.azurewebsites.net/
+
 <p>comming very soon!</p>
